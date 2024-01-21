@@ -1,4 +1,4 @@
-<img alt="Coder GIF"  width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height = "450" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhinav</h1>
 
