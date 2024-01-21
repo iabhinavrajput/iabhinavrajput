@@ -1,4 +1,7 @@
+<img alt="Coder GIF"  width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhinav</h1>
+
 <h3 align="center">A passionate Application Developer</h3>
 
 <img align = "right" alt = "coding"  width = "300" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
