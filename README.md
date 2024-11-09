@@ -7,8 +7,8 @@
 <img align = "right" alt = "coding"  width = "300" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Face Detection Using Mobile Vision API**
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **NXEducation Mobile Application**
+- 🌱 I’m currently learning **React Native**
 - 👨‍💻 About me I am available at **[My Portfolio](abhinavrajput.netlify.app)**
 - 📫 How to reach me **abhinavtechee@gmail.com**
 
