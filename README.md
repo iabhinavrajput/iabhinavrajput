@@ -9,7 +9,7 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on **Face Detection Using Mobile Vision API**
 - 🌱 I’m currently learning **Flutter**
-- 👨‍💻 About me I am available at **[My Portfolio](https://t.ly/aboutAbhinav)**
+- 👨‍💻 About me I am available at **[My Portfolio](abhinavrajput.netlify.app)**
 - 📫 How to reach me **abhinavrajput207@gmail.com**
 
 
