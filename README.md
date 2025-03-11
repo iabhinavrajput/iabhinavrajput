@@ -9,7 +9,7 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on **NXEducation Mobile Application**
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 About me I am available at **[My Portfolio](abhinavrajput.netlify.app)**
+- 👨‍💻 About me I am available at **[My Portfolio](abhinavrajput.xyz)**
 - 📫 How to reach me **abhinavtechee@gmail.com**
 
 
