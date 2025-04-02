@@ -7,7 +7,7 @@
 <img align = "right" alt = "coding"  width = "300" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **NXEducation Mobile Application**
+- 🔭 I’m currently working on **PayAnsh Mobile Application**
 - 🌱 I’m currently learning **React Native**
 - 👨‍💻 About me I am available at **[My Portfolio](abhinavrajput.xyz)**
 - 📫 How to reach me **abhinavtechee@gmail.com**
