@@ -9,7 +9,7 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on **PayAnsh Mobile Application**
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 About me I am available at **[My Portfolio](abhinavrajput.xyz)**
+- 👨‍💻 About me I am available at **[My Portfolio](https://abhinavrajput.xyz/)**
 - 📫 How to reach me **abhinavtechee@gmail.com**
 
 
